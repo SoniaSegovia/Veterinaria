@@ -18,8 +18,8 @@
                        Mascotas
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="AgregarPasajero.php">Nueva Mascota</a></li>
-                        <li><a class="dropdown-item" href="MostrarPasajeros.php">Registro de Mascotas</a></li>
+                        <li><a class="dropdown-item" href="AgregarMascotas.php">Nueva Mascota</a></li>
+                        <li><a class="dropdown-item" href="MostrarMascotas.php">Registro de Mascotas</a></li>
                     </ul>
                 </li>
 

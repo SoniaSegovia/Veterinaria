@@ -67,8 +67,8 @@
                 
 
                     <div class="d-grid gap-2 d-md-block text-center">
-                        <a class="btn btn-secondary col-5" href="NuevoUsuario.php">Registrarse</a>
-                        <button class="btn btn-primary col-5" name="login" type="submit">Ingresar</button>
+                        <a class="btn btn-secondary col-8" href="NuevoUsuario.php">Registrarse</a>
+                        <button class="btn btn-primary col-8" name="login" type="submit">Ingresar</button>
                     </div>
                 </form>
             </div>
