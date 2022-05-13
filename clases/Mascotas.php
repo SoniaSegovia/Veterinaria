@@ -17,7 +17,7 @@ class Mascotas
         {
             ?> 
             <tr>
-            <td><?php echo $columna['idmascota']?></td>
+            <td><?php echo $columna['idmascotas']?></td>
             <td><?php echo $columna['nombre']?></td>
             <td><?php echo $columna['tipoAnimal']?></td>
             <td><?php echo $columna['raza']?></td>

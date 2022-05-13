@@ -83,12 +83,8 @@ if (isset($_GET['EditId']))
                     </div>
 
                     <div class="form-group">
-                        <label for="color
-                ">color
-                    :</label>
-                        <input id="color" value="<?php echo $registro->color
-                ;?>" class="form-control" type="text" name="color
-                ">
+                        <label for="color">color:</label>
+                        <input id="color" value="<?php echo $registro->color;?>" class="form-control" type="text" name="color">
                     </div>
                     
                     <div class="form-group">
