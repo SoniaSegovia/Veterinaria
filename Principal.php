@@ -24,7 +24,7 @@ if (!isset($_SESSION['user_id'])) {
 <body>
 
     <div class="vh-100 row m-0 align-items-center justify-content-center">
-        <div class="col-auto p-5 bg-white shadow-lg rounded">
+        <div class="col-auto p-8 bg-blue shadow-lg rounded">
             <h1>Bienvenidos a Tecnologias Web</h1>
             <h2>Veterinaria La Mascota</h2>
             

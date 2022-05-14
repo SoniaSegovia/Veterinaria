@@ -77,8 +77,8 @@
                     <br>
 
                     <div class="d-grid gap-2 d-md-block text-center">
-                        <a class="btn btn-secondary col-5" href="Index.php">Cancelar</a>
-                        <button class="btn btn-primary col-5" name="AgregarUsuario" type="submit">Registrarse</button>
+                        <a class="btn btn-secondary col-7" href="Index.php">Cancelar</a>
+                        <button class="btn btn-primary col-7" name="AgregarUsuario" type="submit">Registrarse</button>
                     </div>
                 </form>
             </div>

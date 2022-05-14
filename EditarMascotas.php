@@ -104,7 +104,7 @@ if (isset($_GET['EditId']))
 
                     <br>
 
-                    <div class="d-grid gap-1 col-6 mx-auto">
+                    <div class="d-grid gap-1 col-8 mx-auto">
                         <button class="btn btn-primary" name="editar" type="submit">Guardar</button>
                     </div>
                 </form>
